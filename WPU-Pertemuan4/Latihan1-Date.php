@@ -14,7 +14,7 @@
     // mktime
     // Membuat sendiri detik
     // mktime (0, 0, 0, 0, 0, 0)
-    // jam, menit, detik, bulan, tanggal, tahun
+    // clue: jam, menit, detik, bulan, tanggal, tahun
     echo "<br><br>".mktime(0, 0, 0, 11, 21, 2000); // sudah berapa detik sejak tanggal itu
     echo "<br>".date("l", mktime(0, 0, 0, 11, 21, 2000)); // hari apa tanggal tersebut?
 

@@ -4,7 +4,7 @@
     }
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <title>Function</title>
 </head>
