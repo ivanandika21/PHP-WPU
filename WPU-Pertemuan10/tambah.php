@@ -41,7 +41,7 @@
         <ul>
             <li>
                 <label for="nrp">NRP</label>
-                <input type="text" name="nrp" id="" required>
+                <input type="text" name="nrp" id="nrp" required>
             </li>
             <li>
                 <label for="nama">Nama</label>
